@@ -9,8 +9,9 @@ The built program will only trace the key code of the pressed keyboard button in
 
 ### Run unit test
 
-Set tests/src/Runner.as as document class. 
-Run the project.
+- Add vendor/as3/src and test/src classpath (with flasg develop right click on the project name, properties, classpath label )
+- Set tests/src/Runner.as as document class. 
+- Run the project.
 
 ### Info
 
